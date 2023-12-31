@@ -33,6 +33,7 @@ body {
   
   .search-button {
     margin-left: 15px;
+    margin-top: 15px;
     font-size: 16px;
     background-color: #885df1;
     color: white;
